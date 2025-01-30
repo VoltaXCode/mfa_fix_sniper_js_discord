@@ -9,3 +9,5 @@ https://www.dosya.tc/server3/d70xgc/Public.zip.html#google_vignette
 "channelId": "", url alındığında bilgi gönderilecek kanal
 
 "password": "", discordToken'e girdiğiniz token'in şifresi (mfa sistemini geçmek için)
+
+# discord nickim : fe_.
